@@ -10,6 +10,8 @@ public class AtmProject {
         System.out.println("Gir ogrenmek cok kolay");
         //version4
 
+        System.out.println("celal branchi kodlarini yazdi.");
+       //version cll1
 
     }
 
