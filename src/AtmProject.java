@@ -14,8 +14,8 @@ public class AtmProject {
        //version cll1
         System.out.println("bir kisim kodlar");
        //cll2
-
-
+        System.out.println();
+        //cll3
 
     }
 
