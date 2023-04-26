@@ -12,6 +12,10 @@ public class AtmProject {
 
         System.out.println("celal branchi kodlarini yazdi.");
        //version cll1
+        System.out.println("bir kisim kodlar");
+       //cll2
+
+
 
     }
 
