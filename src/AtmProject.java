@@ -18,6 +18,7 @@ public class AtmProject {
         //cll3
         System.out.println();
         //localde degisiklik yaptim.
+        //github da degisiklik yaptım
 
     }
 
